@@ -98,8 +98,13 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: mic
+sitemap:
+    path: sitemap.xml
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/sakshikul/sakshikul.github.io
+  branch: gh-pages
+  message: updated the blog

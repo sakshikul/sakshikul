@@ -27,15 +27,15 @@ Nav:
     facebook: https://www.facebook.com/naturalcarewithsakshi/
     instagram: https://www.instagram.com/naturalcarewithsakshi/
 
-  pages:
-    about:
-      link: "/about/"
-    group:
-      link: "/group/"
-    gallery:
-      link: "/gallery/"
-    tag:
-      link: "/tag/"
+  # pages:
+  #   about:
+  #     link: "/about/"
+  #   group:
+  #     link: "/group/"
+  #   gallery:
+  #     link: "/gallery/"
+  #   tag:
+  #     link: "/tag/"
     #自定义标签名
     #   link：“路径”
 

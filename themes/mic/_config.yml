@@ -4,8 +4,8 @@
 
 # Head info
 head:
-  favicon: "/img/logo_miccall.png"
-  keywords: miccall
+  favicon: "/img/logo.png"
+  keywords: naturalcarewithsakshi
   backgroundpic: "img/bg2.jpg"
 
 Intro:
@@ -42,7 +42,7 @@ Nav:
 MainFirst:
   name: Sakshi Kulshrestha
   description: DIY Queen
-  pic_url: /images/me.jpg
+  pic_url: /img/me.jpeg
   goto_ulr: ""
 
 Gallery:

@@ -4171,7 +4171,7 @@
 		border-radius: 6px;
 		link_box-shadow: 0 2px 0 0 #e5e5e5;
 		margin: 0 0 2em 0;
-		padding-bottom: 2rem;
+		padding: 4px;
 		
 	}
 
@@ -4303,7 +4303,7 @@
 		text-decoration: none;
 	}
 	.home-post-info h6{
-		font-size: 0.8rem;
+		display:none
 	}
 	.page_title{
 		position: relative;
